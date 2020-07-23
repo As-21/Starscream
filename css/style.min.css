@@ -1,0 +1,16 @@
+.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+
+@font-face {
+    font-family: 'transformersregular';
+    src: url('../font/transformers/transformersmovie-y9ad-webfont.woff2') format('woff2'),
+         url('../font/transformers/transformersmovie-y9ad-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	font-family: transformersregular;
+	font-weight: normal;
+	font-style: normal;
+}
